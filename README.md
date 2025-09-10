@@ -10,12 +10,11 @@
 
 ## Repo structure
 - `data/` — synthetic dataset (`ab_test_fairness_sim.csv`)
-- `notebooks/` — interactive analysis notebook
-- `scripts/` — cleaned analysis script (`a_b_testing_cleaned.py`)
+- `scripts/` —interactive analysis notebook
 - `figures/` — plots used in the report
 - `report/` — final PDF report
-- `
+
 
 ## How to run (quick)
-1.download dataset
+1.download the dataset
 2.Colab/Jupiter Run the python scripts 
